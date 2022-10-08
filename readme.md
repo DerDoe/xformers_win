@@ -1,0 +1,1 @@
+xformers binary for Widows RTX 2060  Python 3.10
